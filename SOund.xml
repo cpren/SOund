@@ -3,7 +3,7 @@
     <field name="VOLUME">HIGH</field>
     <next>
       <block type="multimedia_playwav" id="14">
-        <field name="WAV">8</field>
+        <field name="WAV">audtst07</field>
       </block>
     </next>
   </block>
