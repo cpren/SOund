@@ -1,9 +1,9 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="multimedia_volume" id="7" x="109" y="57">
+  <block type="multimedia_volume" id="7" x="14" y="16">
     <field name="VOLUME">HIGH</field>
     <next>
       <block type="multimedia_playwav" id="14">
-        <field name="WAV">woot</field>
+        <field name="WAV">8</field>
       </block>
     </next>
   </block>
